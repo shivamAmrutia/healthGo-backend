@@ -1,0 +1,31 @@
+GET http://localhost:3001/subscribers/ 
+
+###
+
+POST http://localhost:3000/subscribers/ 
+Content-Type: application/json
+
+{
+    "diseaseName":"test",
+    "description":"lorem ipsum dollar dot",
+    "imageUrl":"test url",
+    "category": 1,
+    "symptoms": "something",
+    "remedies": "work req"
+}
+
+###
+GET http://localhost:3000/subscribers/649476dab6631d5a495c8890
+
+###
+DELETE http://localhost:3000/subscribers/649467c336f7113b2989f124
+
+###
+
+PATCH  http://localhost:3000/subscribers/649476dab6631d5a495c8890
+Content-Type: application/json
+
+{
+    "diseaseName":"something new"
+}
+
