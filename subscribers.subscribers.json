@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "649666cad89dfb38932506d5"
+  },
+  "diseaseName": "Fever",
+  "description": "A fever is a higher-than-normal body temperature, one of the body's natural responses to infection. A low-grade fever isn't usually a cause for concern, but a temperature 102°F and above should be treated.",
+  "imageUrl": "https://www.narayanahealth.org/blog/wp-content/uploads/2020/12/shutterstock_1507242380.jpg",
+  "category": 1,
+  "symptoms": "Elevated temperature (above 100.4°),Chills, shivering, shaking,Body aches and headaches,Fatigue (tiredness),Intermittent or constant sweating,Flushed complexion or hot skin.",
+  "remedies": "Drink plenty of fluids, particularly water,Avoid alcohol tea and coffee as these drinks can cause slight dehydration,Sponge exposed skin with tepid water,Avoid taking cold baths or showers."
+},
+{
+  "_id": {
+    "$oid": "649666f7d89dfb38932506d7"
+  },
+  "diseaseName": "Cold and Flu",
+  "description": "The common cold, including chest cold and head cold, and seasonal flu are caused by viruses",
+  "imageUrl": "https://cdn-prod.medicalnewstoday.com/content/images/articles/320/320099/woman-with-a-cold.jpg",
+  "category": 1,
+  "symptoms": "The symptoms of flu can include fever or feeling feverish/chills, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue (tiredness). Cold symptoms are usually milder than the symptoms of flu. People with colds are more likely to have a runny or stuffy nose",
+  "remedies": "Rest Your body needs rest to heal,Soothe a sore throat,Combat stuffiness,Relieve pain,Sip warm liquids,Try honey,Add moisture to the air"
+},
+{
+  "_id": {
+    "$oid": "649667f4d89dfb38932506da"
+  },
+  "diseaseName": "Dry Cough",
+  "description": "A cough is body's way of responding when something irritates your throat. An irritant stimulates nerves that send a message to your brain which tells muscles in your chest to push air out of your lungs.",
+  "imageUrl": "https://d3b6u46udi9ohd.cloudfront.net/wp-content/uploads/2022/10/17083829/Cough-1-1.jpg",
+  "category": 1,
+  "symptoms": "Frequent throat clearing and sore throat,Hoarseness,Wheezing and shortness of breath,Heartburn or a sour taste in your mouth,Rarely coughing up blood",
+  "remedies": "Honey tea,Ginger may ease a dry or asthmatic cough,Fluids,Steam,Marshmallow root,Salt-water gargle,Bromelain,Thyme"
+},
+{
+  "_id": {
+    "$oid": "6496689cd89dfb38932506dc"
+  },
+  "diseaseName": "Ear Pain",
+  "description": "Otalgia (ear pain) is a common presentation in the primary care setting with many diverse causes. Pain that originates from the ear is called primary otalgia, and the most common causes are otitis media and otitis externa.",
+  "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/03/67/70/1000_F_203677062_RNJGDw1ya0UZpTwRJz6HZc0k7NmYWAoo.jpg",
+  "category": 1,
+  "symptoms": "A sharp stabbing pain with immediate warm drainage from the ear canal,A feeling of fullness in the ear,Nausea,Muffled hearing,Ear drainage",
+  "remedies": "A cool or warm compress,A heating pad,Over-the-counter ear drops with pain relievers,Chew gum,Sleep upright"
+},
+{
+  "_id": {
+    "$oid": "64966927d89dfb38932506de"
+  },
+  "diseaseName": "Chest Discomfort",
+  "description": "Pressure, fullness, burning or tightness in your chest. Crushing or searing pain that radiates to your back, neck, jaw, shoulders, and one or both arms.",
+  "imageUrl": "https://www.narayanahealth.org/sites/default/files/pillar-page/chest-pain-banner-bg.jpg",
+  "category": 2,
+  "symptoms": "Shortness of breath,Cold sweats,Dizziness or weakness,Nausea or vomiting",
+  "remedies": "Gas is a common cause of chest pain. A hot or warm drink may help rev up your digestive system and ease gas and bloating,Applying a cold pack several times a day to the affected area may help reduce inflammation and ease pain"
+},
+{
+  "_id": {
+    "$oid": "649669f6d89dfb38932506e0"
+  },
+  "diseaseName": "Irregular Heart Beat",
+  "description": "An arrhythmia is an uneven heartbeat. It means your heart is out of its usual rhythm. It may feel like your heart skipped a beat, added a beat, or is fluttering",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqs_oezJXHM6IuQHBoXDWpGFtR4yWD4rHnfw&usqp=CAU",
+  "category": 2,
+  "symptoms": "Pounding in your chest,Dizziness or feeling lightheaded,Fainting,Shortness of breath,Chest pain or tightness,Weakness or fatigue (feeling very tired),Anxiety",
+  "remedies": "If slow heartbeats (bradycardias) don't have a cause that can be corrected, doctors often treat them with a pacemaker because there aren't any medications that can reliably speed up the heart"
+},
+{
+  "_id": {
+    "$oid": "64966ae6d89dfb38932506e2"
+  },
+  "diseaseName": "Back Pain",
+  "description": "Conditions commonly linked to back pain include: Muscle or ligament strain. Repeated heavy lifting or a sudden awkward movement can strain back muscles and spinal ligaments.",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjZwb5Ijk65CB54LxZY6c1N3w19qrllGpJVP8AhEecW6_Mz27ZsGlpFOm02eeNpR2MB0&usqp=CAU",
+  "category": 2,
+  "symptoms": "Back pain can range from a muscle aching to a shooting burning or stabbing sensation",
+  "remedies": "Keep Good Posture,Maintain a Healthy Weight,Quit Smoking,Try Ice and Heat,Know Your OTC Medications,Rub on Medicated Creams"
+},
+{
+  "_id": {
+    "$oid": "64966b7dd89dfb38932506e4"
+  },
+  "diseaseName": "Breath Shortness",
+  "description": "Shortness of breath — known medically as dyspnea — is often described as an intense tightening in the chest, air hunger, difficulty breathing, breathlessness or a feeling of suffocation.",
+  "imageUrl": "https://post.healthline.com/wp-content/uploads/2020/04/Exhausted_sports_woman-1200x628-facebook-1200x628.jpg",
+  "category": 2,
+  "symptoms": "swollen ankles and feet,coughing, chills, and elevated body temperature,wheezing or a whistling sound when you inhale and exhale,a high-pitched sound when you breathe, known as a stridor,blue fingertips or lips",
+  "remedies": "Pursed-lip breathing,Sitting forward,Sitting forward supported by a table,Standing with supported back,Standing with supported arms,Sleeping in a relaxed position"
+},
+{
+  "_id": {
+    "$oid": "64966c5bd89dfb38932506e6"
+  },
+  "diseaseName": "Ankle and Wrist Pain",
+  "description": "The excess uric acid can be deposited in the joints, resulting in pain and swelling. This pain frequently occurs in the knees, ankles, wrists, and feet.",
+  "imageUrl": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2547573.jpg",
+  "category": 3,
+  "symptoms": "Pain,Swelling,Tenderness and warmth around the injury,Feeling a popping or tearing in the wrist,Bruising,Loss of motion,Weakness",
+  "remedies": "Rest your wrist for at least 48 hours,Ice your wrist to reduce pain and swelling,Compress the wrist with a bandage,Elevate your wrist above your heart, on a pillow or the back of a chair"
+},
+{
+  "_id": {
+    "$oid": "64966ccdd89dfb38932506e8"
+  },
+  "diseaseName": "Knee Pain",
+  "description": "Knee pain can be caused by a sudden injury, an overuse injury, or by an underlying condition, such as arthritis. Treatment will vary depending on the cause.",
+  "imageUrl": "https://chdcityhospital.com/wp-content/uploads/2021/11/chd-hospital-1-1.jpg",
+  "category": 3,
+  "symptoms": "Swelling and stiffness,Redness and warmth to the touch,Weakness or instability,Popping or crunching noises,Inability to fully straighten the knee",
+  "remedies": "Medications,Therapy,Surgery,Injections"
+},
+{
+  "_id": {
+    "$oid": "64966d8ad89dfb38932506ea"
+  },
+  "diseaseName": "Pimples",
+  "description": "A pimple is a small pustule or papule. Pimples develop when sebaceous glands, or oil glands, become clogged and infected, leading to swollen, red lesions filled with pus.",
+  "imageUrl": "https://www.resurchify.com/articles/images/73/1.jpg",
+  "category": 3,
+  "symptoms": "Whiteheads (closed plugged pores),Blackheads (open plugged pores),Small red, tender bumps (papules),Pimples (pustules), which are papules with pus at their tips",
+  "remedies": "Apply apple cider vinegar,Take a zinc supplement,Make a honey and cinnamon mask,Spot treat with tea tree oil,Apply green tea to your skin"
+},
+{
+  "_id": {
+    "$oid": "64966e07d89dfb38932506ec"
+  },
+  "diseaseName": "Headache",
+  "description": "Headaches are a very common condition that most people will experience many times during their lives. The main symptom of a headache is a pain in your head or face.",
+  "imageUrl": "https://www.nkch.org/blog/_assets/images/2021/man-with-headache_1000x440.jpg",
+  "category": 3,
+  "symptoms": "Moderate to severe pain,Nausea or vomiting,Pounding or throbbing pain,Pain that lasts four hours to three days",
+  "remedies": "Rest in a quiet, dark room,Hot or cold compresses to your head or neck,Massage and small amounts of caffeine,Over-the-counter medications such as ibuprofen"
+}]
