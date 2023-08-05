@@ -25,6 +25,8 @@ const subscriberSchema = new mongoose.Schema({
         type: String,
         required: true
     }
-})
+},{
+    collection: "diseaseData"
+});
 
 module.exports = mongoose.model('Subscriber', subscriberSchema);
