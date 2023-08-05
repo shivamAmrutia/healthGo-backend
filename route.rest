@@ -15,14 +15,14 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:3000/subscribers/649476dab6631d5a495c8890
+GET http://localhost:3001/subscribers/649666cad89dfb38932506d5
 
 ###
-DELETE http://localhost:3000/subscribers/649467c336f7113b2989f124
+DELETE http://localhost:3001/subscribers/649467c336f7113b2989f124
 
 ###
 
-PATCH  http://localhost:3000/subscribers/649476dab6631d5a495c8890
+PATCH  http://localhost:3001/subscribers/649476dab6631d5a495c8890
 Content-Type: application/json
 
 {
